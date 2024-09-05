@@ -4,7 +4,7 @@ Cette section de mon espace GitHub contient le cartable du matériel vu en class
 
 Comment faire?
 
-1 - Dans votre session NoMachine, ouvrir une console.
+1 - Dans votre session NoMachine sur SENS, ouvrir une console.
 
 2 - Dans votre console, vous allez vous retrouver dans votre espace personnel ($HOME); télécharge le cartable avec la commande suivante (% représente le prompt!):
 
