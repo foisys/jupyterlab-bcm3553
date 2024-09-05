@@ -16,7 +16,7 @@ Comment faire?
 
 % jupyter lab --notebook-dir=./jupyterlab-bcm3553
 
-5 - Vous devriez voir apparaître une fenêtre de fureteur avec la premi;re page du cartable.
+5 - Vous devriez voir apparaître une fenêtre de fureteur avec la première page du cartable.
 
 Bon cours!
 
