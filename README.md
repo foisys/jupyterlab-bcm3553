@@ -12,11 +12,15 @@ Comment faire?
 
 3 - Après quelques secondes, vous devriez avoir un répertoir appelé jupyterlab-bcm3553 dans votre $HOME.
 
-4 - Accéder au contenu avec la commande suivante:
+4 - Activer Python dans votre session:
+
+% module load python 3.10.12
+
+5 - Accéder au contenu avec la commande suivante:
 
 % jupyter lab --notebook-dir=./jupyterlab-bcm3553
 
-5 - Vous devriez voir apparaître une fenêtre de fureteur avec la première page du cartable.
+6 - Vous devriez voir apparaître une fenêtre de fureteur avec la première page du cartable.
 
 Bon cours!
 
