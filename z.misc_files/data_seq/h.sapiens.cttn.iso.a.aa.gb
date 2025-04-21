@@ -1,0 +1,435 @@
+LOCUS       NP_005222                550 aa            linear   PRI 05-JUL-2023
+DEFINITION  src substrate cortactin isoform a [Homo sapiens].
+ACCESSION   NP_005222
+VERSION     NP_005222.2
+DBSOURCE    REFSEQ: accession NM_005231.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 550)
+  AUTHORS   Yun SI, Kwak C, Lee SY, Shin S, Oh C, Kim JS, Rhee HW and Kim KK.
+  TITLE     Binding of USP4 to cortactin enhances cell migration in HCT116
+            human colon cancer cells
+  JOURNAL   FASEB J 37 (5), e22900 (2023)
+   PUBMED   37039823
+  REMARK    GeneRIF: Binding of USP4 to cortactin enhances cell migration in
+            HCT116 human colon cancer cells.
+REFERENCE   2  (residues 1 to 550)
+  AUTHORS   Senguven Tokozlu B, Sapkota D, Vallenari EM, Schreurs O and Soland
+            TM.
+  TITLE     Cortactin expression in a Norwegian cohort of human papilloma virus
+            negative oral squamous cell carcinomas of the mobile tongue
+  JOURNAL   Eur J Oral Sci 131 (2), e12925 (2023)
+   PUBMED   36790139
+  REMARK    GeneRIF: Cortactin expression in a Norwegian cohort of human
+            papilloma virus negative oral squamous cell carcinomas of the
+            mobile tongue.
+REFERENCE   3  (residues 1 to 550)
+  AUTHORS   Li W, Lei T, Song X, Deng C, Lu J, Zhang W, Kuang Z, He Y, Zhou Q,
+            Luo Z, Mo F, Yang H, Hang J, Xiao B and Li L.
+  TITLE     CBLC inhibits the proliferation and metastasis of breast cancer
+            cells via ubiquitination and degradation of CTTN
+  JOURNAL   J Recept Signal Transduct Res 42 (6), 588-598 (2022)
+   PUBMED   36043996
+  REMARK    GeneRIF: CBLC inhibits the proliferation and metastasis of breast
+            cancer cells via ubiquitination and degradation of CTTN.
+REFERENCE   4  (residues 1 to 550)
+  AUTHORS   Belvitch P, Casanova N, Sun X, Camp SM, Sammani S, Brown ME,
+            Mascarhenas J, Lynn H, Adyshev D, Siegler J, Desai A, Seyed-Saadat
+            L, Rizzo A, Bime C, Shekhawat GS, Dravid VP, Reilly JP, Jones TK,
+            Feng R, Letsiou E, Meyer NJ, Ellis N, Garcia JGN and Dudek SM.
+  TITLE     A cortactin CTTN coding SNP contributes to lung vascular
+            permeability and inflammatory disease severity in African descent
+            subjects
+  JOURNAL   Transl Res 244, 56-74 (2022)
+   PUBMED   35181549
+  REMARK    GeneRIF: A cortactin CTTN coding SNP contributes to lung vascular
+            permeability and inflammatory disease severity in African descent
+            subjects.
+REFERENCE   5  (residues 1 to 550)
+  AUTHORS   Zhao CD, Zhou SC, Su H, Liang JW and Zhou ZX.
+  TITLE     [The expression of cortactin in colorectal cancer and its
+            relationship with clinicopathological and prognostic parameters]
+  JOURNAL   Zhonghua Zhong Liu Za Zhi 44 (3), 268-275 (2022)
+   PUBMED   35316877
+  REMARK    GeneRIF: [The expression of cortactin in colorectal cancer and its
+            relationship with clinicopathological and prognostic parameters].
+REFERENCE   6  (residues 1 to 550)
+  AUTHORS   Adams MD, Kerlavage AR, Fleischmann RD, Fuldner RA, Bult CJ, Lee
+            NH, Kirkness EF, Weinstock KG, Gocayne JD, White O et al.
+  TITLE     Initial assessment of human gene diversity and expression patterns
+            based upon 83 million nucleotides of cDNA sequence
+  JOURNAL   Nature 377 (6547 Suppl), 3-174 (1995)
+   PUBMED   7566098
+REFERENCE   7  (residues 1 to 550)
+  AUTHORS   Schuuring E, Verhoeven E, Litvinov S and Michalides RJ.
+  TITLE     The product of the EMS1 gene, amplified and overexpressed in human
+            carcinomas, is homologous to a v-src substrate and is located in
+            cell-substratum contact sites
+  JOURNAL   Mol Cell Biol 13 (5), 2891-2898 (1993)
+   PUBMED   8474448
+REFERENCE   8  (residues 1 to 550)
+  AUTHORS   Brookes S, Lammie GA, Schuuring E, de Boer C, Michalides R, Dickson
+            C and Peters G.
+  TITLE     Amplified region of chromosome band 11q13 in breast and squamous
+            cell carcinomas encompasses three CpG islands telomeric of FGF3,
+            including the expressed gene EMS1
+  JOURNAL   Genes Chromosomes Cancer 6 (4), 222-231 (1993)
+   PUBMED   7685625
+REFERENCE   9  (residues 1 to 550)
+  AUTHORS   Wu H and Parsons JT.
+  TITLE     Cortactin, an 80/85-kilodalton pp60src substrate, is a filamentous
+            actin-binding protein enriched in the cell cortex
+  JOURNAL   J Cell Biol 120 (6), 1417-1426 (1993)
+   PUBMED   7680654
+REFERENCE   10 (residues 1 to 550)
+  AUTHORS   Schuuring E, Verhoeven E, Mooi WJ and Michalides RJ.
+  TITLE     Identification and cloning of two overexpressed genes, U21B31/PRAD1
+            and EMS1, within the amplified chromosome 11q13 region in human
+            carcinomas
+  JOURNAL   Oncogene 7 (2), 355-361 (1992)
+   PUBMED   1532244
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA716772.1, AK222613.1,
+            AK291097.1 and BC008799.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Apr 30, 2002 this sequence version replaced NP_005222.1.
+            
+            Summary: This gene is overexpressed in breast cancer and squamous
+            cell carcinomas of the head and neck. The encoded protein is
+            localized in the cytoplasm and in areas of the cell-substratum
+            contacts. This gene has two roles: (1) regulating the interactions
+            between components of adherens-type junctions and (2) organizing
+            the cytoskeleton and cell adhesion structures of epithelia and
+            carcinoma cells. During apoptosis, the encoded protein is degraded
+            in a caspase-dependent manner. The aberrant regulation of this gene
+            contributes to tumor cell invasion and metastasis. Three splice
+            variants that encode different isoforms have been identified for
+            this gene. [provided by RefSeq, May 2010].
+            
+            Transcript Variant: This variant (1) is the longest transcript.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: GQ900949.1, SRR3476690.713548.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000301843.13/ ENSP00000301843.8
+            RefSeq Select criteria :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..550
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q13.3"
+     Protein         1..550
+                     /product="src substrate cortactin isoform a"
+                     /note="oncogene EMS1; ems1 sequence (mammary tumor and
+                     squamous cell carcinoma-associated (p80/85 src substrate);
+                     1110020L01Rik; amplaxin; epididymis secretory sperm
+                     binding protein"
+                     /calculated_mol_wt=61455
+     Region          1..27
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          80..116
+                     /region_name="Cortactin 1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          83..116
+                     /region_name="HS1_rep"
+                     /note="Repeat in HS1/Cortactin; pfam02218"
+                     /db_xref="CDD:426666"
+     Site            87
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            107
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            113
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          117..153
+                     /region_name="Cortactin 2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            119
+                     /site_type="methylation"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          120..155
+                     /region_name="HS1_rep"
+                     /note="Repeat in HS1/Cortactin; pfam02218"
+                     /db_xref="CDD:426666"
+     Site            124
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            144
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            150
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            152
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          154..190
+                     /region_name="Cortactin 3"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          157..192
+                     /region_name="HS1_rep"
+                     /note="Repeat in HS1/Cortactin; pfam02218"
+                     /db_xref="CDD:426666"
+     Site            161
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            171
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            181
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          191..227
+                     /region_name="Cortactin 4"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            193
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          194..228
+                     /region_name="HS1_rep"
+                     /note="Repeat in HS1/Cortactin; pfam02218"
+                     /db_xref="CDD:426666"
+     Site            198
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          228..264
+                     /region_name="Cortactin 5"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          231..266
+                     /region_name="HS1_rep"
+                     /note="Repeat in HS1/Cortactin; pfam02218"
+                     /db_xref="CDD:426666"
+     Site            235
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            261
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          265..301
+                     /region_name="Cortactin 6"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          268..303
+                     /region_name="HS1_rep"
+                     /note="Repeat in HS1/Cortactin; pfam02218"
+                     /db_xref="CDD:426666"
+     Site            272
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            295
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          302..324
+                     /region_name="Cortactin 7, truncated"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            304
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          305..>331
+                     /region_name="HS1_rep"
+                     /note="Repeat in HS1/Cortactin; pfam02218"
+                     /db_xref="CDD:426666"
+     Site            309
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            314
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          <325..>430
+                     /region_name="PspC_subgroup_1"
+                     /note="pneumococcal surface protein PspC, choline-binding
+                     form; NF033838"
+                     /db_xref="CDD:411407"
+     Region          344..419
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            346
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          358..>396
+                     /region_name="Casc1_N"
+                     /note="Cancer susceptibility candidate 1 N-terminus;
+                     pfam15927"
+                     /db_xref="CDD:435024"
+     Site            399
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            401
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            405
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:15144186,
+                     ECO:0007744|PubMed:16964243, ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:18088087, ECO:0007744|PubMed:18220336,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:23186163,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            411
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            417
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            418
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:16964243,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:19690332,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            421
+                     /site_type="phosphorylation"
+                     /note="Phosphotyrosine, by SRC.
+                     /evidence=ECO:0007744|PubMed:18088087,
+                     ECO:0007744|PubMed:19690332; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            426
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            438
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            446
+                     /site_type="phosphorylation"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0007744|PubMed:19690332; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            447
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            453
+                     /site_type="phosphorylation"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0007744|PubMed:15592455; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            470
+                     /site_type="phosphorylation"
+                     /note="Phosphotyrosine, by FAK1.
+                     /evidence=ECO:0000250|UniProtKB:Q66HL2; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            486
+                     /site_type="phosphorylation"
+                     /note="Phosphotyrosine, by SRC.
+                     /evidence=ECO:0000269|PubMed:15561106,
+                     ECO:0000269|PubMed:17959782; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Site            489
+                     /site_type="phosphorylation"
+                     /note="Phosphotyrosine, by SRC.
+                     /evidence=ECO:0000250|UniProtKB:Q60598; propagated from
+                     UniProtKB/Swiss-Prot (Q14247.2)"
+     Region          496..548
+                     /region_name="SH3_Cortactin"
+                     /note="Src homology 3 domain of Cortactin; cd11959"
+                     /db_xref="CDD:212892"
+     Site            order(501,503,506,509..510,528..529,540,542,544..545)
+                     /site_type="other"
+                     /note="peptide ligand binding site [polypeptide binding]"
+                     /db_xref="CDD:212892"
+     CDS             1..550
+                     /gene="CTTN"
+                     /gene_synonym="EMS1"
+                     /coded_by="NM_005231.4:184..1836"
+                     /note="isoform a is encoded by transcript variant 1"
+                     /db_xref="CCDS:CCDS41680.1"
+                     /db_xref="GeneID:2017"
+                     /db_xref="HGNC:HGNC:3338"
+                     /db_xref="MIM:164765"
+ORIGIN      
+        1 mwkasaghav siaqddagad dwetdpdfvn dvsekeqrwg aktvqgsghq ehinihklre
+       61 nvfqehqtlk ekeletgpka shgyggkfgv eqdrmdksav gheyqsklsk hcsqvdsvrg
+      121 fggkfgvqmd rvdqsavgfe yqgktekhas qkdyssgfgg kygvqadrvd ksavgfdyqg
+      181 ktekhesqrd yskgfggkyg idkdkvdksa vgfeyqgkte khesqkdyvk gfggkfgvqt
+      241 drqdkcalgw dhqeklqlhe sqkdyktgfg gkfgvqserq dsaavgfdyk eklakhesqq
+      301 dyskgfggky gvqkdrmdkn astfedvtqv ssayqktvpv eavtsktsni ranfenlake
+      361 keqedrrkae aeraqrmake rqeqeearrk leeqaraktq tppvspapqp teerlpsspv
+      421 yedaasfkae lsyrgpvsgt epepvysmea adyreassqq glayateavy esaeapghyp
+      481 aedstydeye ndlgitaval ydyqaagdde isfdpddiit niemiddgww rgvckgrygl
+      541 fpanyvelrq
+//
+

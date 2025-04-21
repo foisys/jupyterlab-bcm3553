@@ -1,0 +1,79 @@
+#
+# Exemple de fichier YAML pour soumission de tache
+#
+---
+#
+# YAML accepte les commentaires avec le symbol #
+# devant chaque ligne!
+#
+# Cette variable sert à tester la création des scripts shell
+# sans les soumettre; ça permet de les lire et de voir que tout va bien
+#
+# Si dry-run: true, on aura juste ça !!
+#
+dry-run: true
+#
+# Ou se trouve les séquences?
+#
+in: "../z.misc_files/data_drm/donnees_brutes"
+#
+# Ou écrire les résultats
+#
+out: "../z.misc_files/data_drm/hisat_alignements"
+#
+# Quelles conditions? Les répertoires doivent être 
+# ceux qui contiennent les fichiers FASTQ
+#
+# Remarquez l'utilisation des espaces pour l'indentation...
+#
+conditions:
+  - control_neg
+  - control_pos
+  - drogue_A
+  - drogue_B
+#
+# Ici, on specifie que ces options seront utilisées
+# pour HISAT2
+#
+# Ma preference est d'utiliser les noms longs pour les parametres
+# car ensuite on peut les utiliser tel quel dans le script a venir.
+#
+hisat2_static:
+  - x: /ou/se/trouve/hisat2/index
+  - phred-64: true
+  - rna-strandness: RF
+  - downstream-transcriptome-assembly: true
+  - reorder: true
+  #
+  # Ici, on déclare une variable appelée cpu avec la caractère &
+  # Pourquoi? Pour récupérer la valeur (4) dans la section des commandes
+  # du système de gestion de taches.
+  #
+  - threads: &cpu
+      val: 4
+#
+# Ça va nous servir pour écrire l'en-tete du script bash qui serait soumis
+# au système SLURM 
+#
+slurm_static:
+  # Compte usager dans SLURM
+  - account: compteUsager
+  # Nom donné à la tache; on pourra jouer avec la valeur dasn le script
+  # d'écriture python
+  - job-name: hisat2_run 
+  # À qui envoyer les courriels
+  - mail-user: mon.adresse@mon.serveur 
+  # On envoit tous les messages, erreur comme complétion
+  - mail-type: ALL 
+  # Temps maximum alloué à la tache (h:m:s)
+  - time: "4:0:0"
+  # Les cpus habitent sur un seul noeud de calcul
+  - nodes: 1 
+  # On prend &cpu, tel que défini en amont
+  - cpus-per-task: *cpu 
+  # Chaque tache ne doit pas prendre plus de 8G de memoire
+  - mem: 8G 
+  # On écrit toute sortie de l'exécution dans ce répertoire
+  # ce n'est pas tout à fait fini car on prendra la valeur 
+  # pour construire le chemin final
+  - output: "../z.misc_files/data_drm/hisat_alignements"
