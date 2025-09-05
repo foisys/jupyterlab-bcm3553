@@ -18,7 +18,7 @@ Autre mise en garde: si vous utiliser Ubuntu comme distro Linux, l'installation 
 ```
 3 - Après quelques secondes, vous devriez avoir un répertoire appelé `jupyterlab-bcm3553` dans votre `$HOME`.
 
-4 - Activer Python dans votre session:
+4 - Activer Python dans votre session (attention à la version, il pourrait en avoir de plus récentes):
 ```
 % module load python 3.10.12
 ```
