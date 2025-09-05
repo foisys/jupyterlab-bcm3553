@@ -22,7 +22,12 @@ jupyter lab --notebook-dir=./jupyterlab-bcm3553
 ```
 6 - Vous devriez voir apparaître une fenêtre de fureteur avec la première page du cartable.
 
-Je tiens à souligner que ce cartable est (et sera probablement toujours) un *work in progress*... Si vous trouvez des bugs, ouvrez un ticket dans l'onglet **Issues**
+Je tiens à souligner que ce cartable est (et sera probablement toujours) un *work in progress*... Si vous trouvez des bugs, ouvrez un ticket dans l'onglet **Issues**. Ppour vous mettre à jour, en étant dans le répertoire `jupyterlab-bcm3553`, exécuter la commande suivante:
+```
+git pull origin master
+```
+Si du nouveau matériel est disponible, vous le verrez arriver dans votre cartable :-)
+
 
 Bon cours!
 
