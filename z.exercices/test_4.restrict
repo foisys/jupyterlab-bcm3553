@@ -1,0 +1,2962 @@
+Restrictor - Un programme simplet pour recherche des sites de 
+restriction d'une sequence FASTA
+=> Infos sur la sequence:
+gi|1519242654|ref|NM_005231.4| Homo sapiens cortactin (CTTN), transcript variant 1, mRNA
+
+=> Version de la base de donnes REBASE:
+Dec/2023
+
+<==================== RESULTATS =====================>
+
+
+NOM			SITE				MOTIF RECHERCHE
+AatII		gacgt/c			GACGTC
+
+== Positions des coupures pour AatII ==
+
+==> Pas de sites pour AatII
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AbsI		cc/tcgagg			CCTCGAGG
+
+== Positions des coupures pour AbsI ==
+
+==> Pas de sites pour AbsI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AccI		gt/mkac			GT[AC][GT]AC
+
+== Positions des coupures pour AccI ==
+
+GTAGAC : 689
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Acc65I		g/gtacc			GGTACC
+
+== Positions des coupures pour Acc65I ==
+
+==> Pas de sites pour Acc65I
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AclI		aa/cgtt			AACGTT
+
+== Positions des coupures pour AclI ==
+
+==> Pas de sites pour AclI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AfeI		agc/gct			AGCGCT
+
+== Positions des coupures pour AfeI ==
+
+==> Pas de sites pour AfeI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AflII		c/ttaag			CTTAAG
+
+== Positions des coupures pour AflII ==
+
+CTTAAG : 388
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AflIII		a/crygt			AC[AG][CT]GT
+
+== Positions des coupures pour AflIII ==
+
+==> Pas de sites pour AflIII
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AgeI		a/ccggt			ACCGGT
+
+== Positions des coupures pour AgeI ==
+
+==> Pas de sites pour AgeI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AgsI		tts/aa			TT[GC]AA
+
+== Positions des coupures pour AgsI ==
+
+TTCAA : 373
+TTGAA : 406
+TTGAA : 601
+TTGAA : 1246
+TTCAA : 1464
+TTGAA : 1953
+TTGAA : 2013
+TTGAA : 2561
+TTCAA : 2828
+TTGAA : 2851
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AhdI		gacnnn/nngtc			GAC[ACGT][ACGT][ACGT][ACGT][ACGT]GTC
+
+== Positions des coupures pour AhdI ==
+
+==> Pas de sites pour AhdI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AleI		cacnn/nngtg			CAC[ACGT][ACGT][ACGT][ACGT]GTG
+
+== Positions des coupures pour AleI ==
+
+CACCCAGGTG : 1168
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AluI		ag/ct			AGCT
+
+== Positions des coupures pour AluI ==
+
+AGCT : 193
+AGCT : 354
+AGCT : 421
+AGCT : 478
+AGCT : 954
+AGCT : 1059
+AGCT : 1207
+AGCT : 1237
+AGCT : 1353
+AGCT : 1473
+AGCT : 1478
+AGCT : 1824
+AGCT : 1858
+AGCT : 2139
+AGCT : 2149
+AGCT : 2338
+AGCT : 2361
+AGCT : 2909
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AlwNI		cagnnn/ctg			CAG[ACGT][ACGT][ACGT]CTG
+
+== Positions des coupures pour AlwNI ==
+
+CAGTACCTG : 1198
+CAGGGCCTG : 1566
+CAGAGGCTG : 1585
+CAGGAGCTG : 2361
+CAGTGCCTG : 2753
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AoxI		/ggcc			GGCC
+
+== Positions des coupures pour AoxI ==
+
+GGCC : 53
+GGCC : 63
+GGCC : 201
+GGCC : 236
+GGCC : 483
+GGCC : 677
+GGCC : 1061
+GGCC : 1313
+GGCC : 1340
+GGCC : 1485
+GGCC : 1529
+GGCC : 1547
+GGCC : 1563
+GGCC : 1568
+GGCC : 1604
+GGCC : 1611
+GGCC : 1788
+GGCC : 1836
+GGCC : 1888
+GGCC : 2221
+GGCC : 2232
+GGCC : 2314
+GGCC : 2677
+GGCC : 2722
+GGCC : 2730
+GGCC : 2938
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+ApaI		gggcc/c			GGGCCC
+
+== Positions des coupures pour ApaI ==
+
+GGGCCC : 1840
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+ApaBI		gcannnnn/tgc			GCA[ACGT][ACGT][ACGT][ACGT][ACGT]TGC
+
+== Positions des coupures pour ApaBI ==
+
+GCAGTGCCTGC : 2754
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+ApaLI		g/tgcac			GTGCAC
+
+== Positions des coupures pour ApaLI ==
+
+==> Pas de sites pour ApaLI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+ApoI		r/aatty			[AG]AATT[CT]
+
+== Positions des coupures pour ApoI ==
+
+AAATTC : 111
+GAATTT : 143
+AAATTT : 442
+AAATTT : 886
+AAATTC : 997
+GAATTT : 2031
+GAATTC : 3177
+GAATTC : 3222
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AscI		gg/cgcgcc			GGCGCGCC
+
+== Positions des coupures pour AscI ==
+
+==> Pas de sites pour AscI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AseI		at/taat			ATTAAT
+
+== Positions des coupures pour AseI ==
+
+==> Pas de sites pour AseI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Asi256I		g/atc			GATC
+
+== Positions des coupures pour Asi256I ==
+
+GATC : 580
+GATC : 934
+GATC : 1126
+GATC : 1657
+GATC : 1665
+GATC : 1713
+GATC : 1869
+GATC : 1884
+GATC : 2413
+GATC : 2843
+GATC : 3244
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AsiSI		gcgat/cgc			GCGATCGC
+
+== Positions des coupures pour AsiSI ==
+
+==> Pas de sites pour AsiSI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AvaI		c/ycgrg			C[CT]CG[AG]G
+
+== Positions des coupures pour AvaI ==
+
+CCCGGG : 60
+CTCGAG : 1431
+CCCGGG : 1608
+CTCGGG : 3053
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AvaII		g/gwcc			GG[AT]CC
+
+== Positions des coupures pour AvaII ==
+
+GGACC : 68
+GGACC : 412
+GGTCC : 534
+GGACC : 2200
+GGTCC : 2670
+GGTCC : 2897
+GGACC : 2990
+GGTCC : 3064
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+AvrII		c/ctagg			CCTAGG
+
+== Positions des coupures pour AvrII ==
+
+==> Pas de sites pour AvrII
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BaeGI		gkgcm/c			G[GT]GC[AC]C
+
+== Positions des coupures pour BaeGI ==
+
+GGGCAC : 329
+GTGCCC : 924
+GGGCCC : 1840
+GTGCCC : 2184
+GTGCCC : 2456
+GTGCCC : 3077
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BamHI		g/gatcc			GGATCC
+
+== Positions des coupures pour BamHI ==
+
+GGATCC : 1868
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BanI		g/gyrcc			GG[CT][AG]CC
+
+== Positions des coupures pour BanI ==
+
+GGTGCC : 20
+GGTGCC : 301
+GGCACC : 326
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BanII		grgcy/c			G[AG]GC[CT]C
+
+== Positions des coupures pour BanII ==
+
+GGGCTC : 322
+GAGCCC : 1305
+GAGCCC : 1438
+GAGCCC : 1514
+GGGCTC : 1802
+GGGCCC : 1840
+GAGCTC : 2151
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BclI		t/gatca			TGATCA
+
+== Positions des coupures pour BclI ==
+
+TGATCA : 579
+TGATCA : 2842
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BfaI		c/tag			CTAG
+
+== Positions des coupures pour BfaI ==
+
+CTAG : 2283
+CTAG : 2426
+CTAG : 2856
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BglI		gccnnnn/nggc			GCC[ACGT][ACGT][ACGT][ACGT][ACGT]GGC
+
+== Positions des coupures pour BglI ==
+
+GCCAGCAGGGC : 1562
+GCCACAGAGGC : 1582
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BglII		a/gatct			AGATCT
+
+== Positions des coupures pour BglII ==
+
+AGATCT : 1712
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BisI		gc/ngc			GC[ACGT]GC
+
+== Positions des coupures pour BisI ==
+
+GCGGC : 32
+GCGGC : 41
+GCGGC : 82
+GCGGC : 660
+GCGGC : 771
+GCAGC : 952
+GCTGC : 1031
+GCGGC : 1324
+GCTGC : 1426
+GCGGC : 1454
+GCCGC : 1532
+GCAGC : 1554
+GCTGC : 1697
+GCTGC : 1825
+GCTGC : 1859
+GCGGC : 2134
+GCTGC : 2362
+GCTGC : 2513
+GCAGC : 2688
+GCCGC : 2769
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BlpI		gc/tnagc			GCT[ACGT]AGC
+
+== Positions des coupures pour BlpI ==
+
+GCTGAGC : 1474
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BlsI		gcn/gc			GC[ACGT]GC
+
+== Positions des coupures pour BlsI ==
+
+GCGGC : 33
+GCGGC : 42
+GCGGC : 83
+GCGGC : 661
+GCGGC : 772
+GCAGC : 953
+GCTGC : 1032
+GCGGC : 1325
+GCTGC : 1427
+GCGGC : 1455
+GCCGC : 1533
+GCAGC : 1555
+GCTGC : 1698
+GCTGC : 1826
+GCTGC : 1860
+GCGGC : 2135
+GCTGC : 2363
+GCTGC : 2514
+GCAGC : 2689
+GCCGC : 2770
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BmtI		gctag/c			GCTAGC
+
+== Positions des coupures pour BmtI ==
+
+==> Pas de sites pour BmtI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BsaAI		yac/gtr			[CT]ACGT[AG]
+
+== Positions des coupures pour BsaAI ==
+
+CACGTG : 3042
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BsaBI		gatnn/nnatc			GAT[ACGT][ACGT][ACGT][ACGT]ATC
+
+== Positions des coupures pour BsaBI ==
+
+==> Pas de sites pour BsaBI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BsaHI		gr/cgyc			G[AG]CG[CT]C
+
+== Positions des coupures pour BsaHI ==
+
+==> Pas de sites pour BsaHI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BsaJI		c/cnngg			CC[ACGT][ACGT]GG
+
+== Positions des coupures pour BsaJI ==
+
+CCTGGG : 24
+CCAGGG : 50
+CCCGGG : 60
+CCCAGG : 76
+CCCAGG : 221
+CCATGG : 426
+CCGTGG : 537
+CCAGGG : 606
+CCAGGG : 717
+CCTTGG : 924
+CCCAGG : 1166
+CCAAGG : 1316
+CCGAGG : 1415
+CCCCGG : 1607
+CCCCGG : 1851
+CCCTGG : 1864
+CCCAGG : 2206
+CCCTGG : 2436
+CCCAGG : 2495
+CCGCGG : 2577
+CCCTGG : 2673
+CCTGGG : 2691
+CCTTGG : 2733
+CCAAGG : 2893
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BsaWI		w/ccggw			[AT]CCGG[AT]
+
+== Positions des coupures pour BsaWI ==
+
+ACCGGA : 4
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BsiEI		cgry/cg			CG[AG][CT]CG
+
+== Positions des coupures pour BsiEI ==
+
+CGACCG : 684
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BsiHKAI		gwgcw/c			G[AT]GC[AT]C
+
+== Positions des coupures pour BsiHKAI ==
+
+GAGCTC : 2151
+GAGCAC : 2355
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BsiWI		c/gtacg			CGTACG
+
+== Positions des coupures pour BsiWI ==
+
+==> Pas de sites pour BsiWI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BslI		ccnnnnn/nngg			CC[ACGT][ACGT][ACGT][ACGT][ACGT][ACGT][ACGT]GG
+
+== Positions des coupures pour BslI ==
+
+CCTGGGAGCGG : 30
+CCGACCCCAGG : 77
+CCAATGCCTGG : 106
+CCGATGACTGG : 245
+CCCTTGGCTGG : 929
+CCTCGCTAAGG : 1257
+CCAGCGGATGG : 1311
+CCAAGGAGCGG : 1322
+CCGAGGAGAGG : 1421
+CCTGTGAGTGG : 1495
+CCAGGCTGCGG : 1698
+CCCCCCCCCGG : 1852
+CCTCAGGTCGG : 2230
+CCCTGTGGCGG : 2241
+CCCAGACGAGG : 2270
+CCTTGGGAAGG : 2739
+CCTGTCAATGG : 2792
+CCTTCCTGAGG : 2973
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Bsp1286I		gdgch/c			G[AGT]GC[ACT]C
+
+== Positions des coupures pour Bsp1286I ==
+
+GGGCTC : 322
+GGGCAC : 329
+GTGCCC : 924
+GAGCCC : 1305
+GAGCCC : 1438
+GAGCCC : 1514
+GGGCTC : 1802
+GGGCCC : 1840
+GAGCTC : 2151
+GTGCCC : 2184
+GAGCAC : 2355
+GTGCCC : 2456
+GTGCCC : 3077
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BspEI		t/ccgga			TCCGGA
+
+== Positions des coupures pour BspEI ==
+
+==> Pas de sites pour BspEI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BspHI		t/catga			TCATGA
+
+== Positions des coupures pour BspHI ==
+
+==> Pas de sites pour BspHI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BsrFI		r/ccggy			[AG]CCGG[CT]
+
+== Positions des coupures pour BsrFI ==
+
+GCCGGT : 1790
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BsrGI		t/gtaca			TGTACA
+
+== Positions des coupures pour BsrGI ==
+
+TGTACA : 1517
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BssHII		g/cgcgc			GCGCGC
+
+== Positions des coupures pour BssHII ==
+
+==> Pas de sites pour BssHII
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BstAPI		gcannnn/ntgc			GCA[ACGT][ACGT][ACGT][ACGT][ACGT]TGC
+
+== Positions des coupures pour BstAPI ==
+
+GCAGTGCCTGC : 2753
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BstBI		tt/cgaa			TTCGAA
+
+== Positions des coupures pour BstBI ==
+
+==> Pas de sites pour BstBI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BstEII		g/gtnacc			GGT[ACGT]ACC
+
+== Positions des coupures pour BstEII ==
+
+GGTCACC : 2499
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BstKTI		gat/c			GATC
+
+== Positions des coupures pour BstKTI ==
+
+GATC : 582
+GATC : 936
+GATC : 1128
+GATC : 1659
+GATC : 1667
+GATC : 1715
+GATC : 1871
+GATC : 1886
+GATC : 2415
+GATC : 2845
+GATC : 3246
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BstNI		cc/wgg			CC[AT]GG
+
+== Positions des coupures pour BstNI ==
+
+CCTGG : 18
+CCTGG : 25
+CCAGG : 51
+CCAGG : 78
+CCTGG : 107
+CCAGG : 223
+CCAGG : 331
+CCAGG : 607
+CCAGG : 718
+CCAGG : 940
+CCAGG : 1168
+CCAGG : 1344
+CCTGG : 1567
+CCAGG : 1693
+CCTGG : 1866
+CCAGG : 2208
+CCTGG : 2438
+CCAGG : 2497
+CCTGG : 2675
+CCTGG : 2692
+CCAGG : 2773
+CCAGG : 2913
+CCTGG : 2928
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BstUI		cg/cg			CGCG
+
+== Positions des coupures pour BstUI ==
+
+CGCG : 40
+CGCG : 232
+CGCG : 700
+CGCG : 1775
+CGCG : 2133
+CGCG : 2579
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BstXI		ccannnnn/ntgg			CCA[ACGT][ACGT][ACGT][ACGT][ACGT][ACGT]TGG
+
+== Positions des coupures pour BstXI ==
+
+CCATGGCTATGG : 433
+CCAACTATGTGG : 1818
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BstYI		r/gatcy			[AG]GATC[CT]
+
+== Positions des coupures pour BstYI ==
+
+AGATCT : 1712
+GGATCC : 1868
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BstZ17I		gta/tac			GTATAC
+
+== Positions des coupures pour BstZ17I ==
+
+==> Pas de sites pour BstZ17I
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Bsu36I		cc/tnagg			CCT[ACGT]AGG
+
+== Positions des coupures pour Bsu36I ==
+
+CCTTAGG : 2060
+CCTCAGG : 2225
+CCTGAGG : 2972
+CCTGAGG : 3098
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BtgI		c/crygg			CC[AG][CT]GG
+
+== Positions des coupures pour BtgI ==
+
+CCATGG : 426
+CCGTGG : 537
+CCGCGG : 2577
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+BthCI		gcng/c			GC[ACGT]GC
+
+== Positions des coupures pour BthCI ==
+
+GCGGC : 34
+GCGGC : 43
+GCGGC : 84
+GCGGC : 662
+GCGGC : 773
+GCAGC : 954
+GCTGC : 1033
+GCGGC : 1326
+GCTGC : 1428
+GCGGC : 1456
+GCCGC : 1534
+GCAGC : 1556
+GCTGC : 1699
+GCTGC : 1827
+GCTGC : 1861
+GCGGC : 2136
+GCTGC : 2364
+GCTGC : 2515
+GCAGC : 2690
+GCCGC : 2771
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Cac8I		gcn/ngc			GC[ACGT][ACGT]GC
+
+== Positions des coupures pour Cac8I ==
+
+GCTGGC : 36
+GCAGGC : 201
+GCTCGC : 520
+GCATGC : 626
+GCGTGC : 673
+GCTGGC : 1061
+GCAAGC : 1364
+GCCCGC : 1400
+GCCAGC : 1551
+GCCAGC : 1558
+GCGGGC : 1701
+GCTCGC : 2151
+GCCCGC : 2407
+GCCTGC : 2754
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+ChaI		gatc/			GATC
+
+== Positions des coupures pour ChaI ==
+
+GATC : 583
+GATC : 937
+GATC : 1129
+GATC : 1660
+GATC : 1668
+GATC : 1716
+GATC : 1872
+GATC : 1887
+GATC : 2416
+GATC : 2846
+GATC : 3247
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+ClaI		at/cgat			ATCGAT
+
+== Positions des coupures pour ClaI ==
+
+==> Pas de sites pour ClaI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+CviAII		c/atg			CATG
+
+== Positions des coupures pour CviAII ==
+
+CATG : 427
+CATG : 625
+CATG : 958
+CATG : 1524
+CATG : 2366
+CATG : 2710
+CATG : 2720
+CATG : 2822
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+CviKI-1		rg/cy			[AG]GC[CT]
+
+== Positions des coupures pour CviKI-1 ==
+
+AGCC : 16
+GGCT : 34
+GGCC : 55
+GGCC : 65
+AGCC : 157
+AGCT : 193
+GGCC : 203
+GGCC : 238
+GGCT : 320
+AGCT : 354
+AGCT : 421
+GGCT : 431
+AGCT : 478
+GGCC : 485
+GGCT : 542
+GGCT : 596
+GGCC : 679
+GGCT : 707
+GGCT : 818
+GGCT : 929
+AGCT : 954
+AGCT : 1059
+GGCC : 1063
+AGCT : 1207
+AGCT : 1237
+AGCC : 1303
+GGCC : 1315
+GGCC : 1342
+AGCT : 1353
+AGCC : 1366
+AGCC : 1372
+AGCC : 1410
+GGCT : 1425
+AGCC : 1436
+GGCT : 1456
+AGCT : 1473
+AGCT : 1478
+GGCC : 1487
+AGCC : 1506
+AGCC : 1512
+GGCC : 1531
+GGCC : 1549
+AGCC : 1556
+GGCC : 1565
+GGCC : 1570
+GGCT : 1585
+GGCC : 1606
+GGCC : 1613
+AGCC : 1672
+GGCT : 1696
+GGCT : 1766
+GGCC : 1790
+GGCT : 1800
+AGCC : 1810
+AGCT : 1824
+GGCC : 1838
+AGCC : 1845
+AGCT : 1858
+GGCC : 1890
+AGCT : 2139
+AGCT : 2149
+GGCC : 2223
+GGCC : 2234
+GGCT : 2276
+GGCC : 2316
+AGCT : 2338
+AGCT : 2361
+AGCC : 2405
+GGCT : 2464
+GGCT : 2512
+AGCC : 2522
+GGCT : 2626
+GGCT : 2631
+GGCT : 2644
+GGCC : 2679
+AGCC : 2690
+GGCC : 2724
+GGCC : 2732
+AGCC : 2768
+GGCT : 2855
+AGCT : 2909
+GGCC : 2940
+AGCC : 2979
+GGCT : 2987
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+CviQI		g/tac			GTAC
+
+== Positions des coupures pour CviQI ==
+
+GTAC : 1195
+GTAC : 1518
+GTAC : 1647
+GTAC : 1683
+GTAC : 1794
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+DdeI		c/tnag			CT[ACGT]AG
+
+== Positions des coupures pour DdeI ==
+
+CTGAG : 355
+CTGAG : 617
+CTAAG : 1256
+CTCAG : 1406
+CTGAG : 1474
+CTTAG : 2060
+CTCAG : 2225
+CTAAG : 2339
+CTGAG : 2551
+CTGAG : 2972
+CTGAG : 3098
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+DpnI		ga/tc			GATC
+
+== Positions des coupures pour DpnI ==
+
+GATC : 581
+GATC : 935
+GATC : 1127
+GATC : 1658
+GATC : 1666
+GATC : 1714
+GATC : 1870
+GATC : 1885
+GATC : 2414
+GATC : 2844
+GATC : 3245
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+DraI		ttt/aaa			TTTAAA
+
+== Positions des coupures pour DraI ==
+
+TTTAAA : 137
+TTTAAA : 3213
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+DraIII		cacnnn/gtg			CAC[ACGT][ACGT][ACGT]GTG
+
+== Positions des coupures pour DraIII ==
+
+CACGCTGTG : 210
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+DrdI		gacnnnn/nngtc			GAC[ACGT][ACGT][ACGT][ACGT][ACGT][ACGT]GTC
+
+== Positions des coupures pour DrdI ==
+
+GACACCGCTGTC : 2922
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+EaeI		y/ggccr			[CT]GGCC[AG]
+
+== Positions des coupures pour EaeI ==
+
+CGGCCA : 483
+TGGCCA : 1061
+TGGCCA : 1313
+TGGCCA : 2938
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+EagI		c/ggccg			CGGCCG
+
+== Positions des coupures pour EagI ==
+
+==> Pas de sites pour EagI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+EcoHI		/ccsgg			CC[GC]GG
+
+== Positions des coupures pour EcoHI ==
+
+CCCGG : 59
+CCGGG : 322
+CCCGG : 1607
+CCCGG : 1851
+CCCGG : 2331
+CCGGG : 2503
+CCGGG : 2537
+CCGGG : 2682
+CCGGG : 2979
+CCCGG : 3066
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+EcoNI		cctnn/nnnagg			CCT[ACGT][ACGT][ACGT][ACGT][ACGT]AGG
+
+== Positions des coupures pour EcoNI ==
+
+CCTCGCTAAGG : 1255
+CCTTGGGAAGG : 2737
+CCTTCCTGAGG : 2971
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+EcoO109I		rg/gnccy			[AG]GG[ACGT]CC[CT]
+
+== Positions des coupures pour EcoO109I ==
+
+AGGCCCT : 1486
+AGGGCCT : 1563
+AGGCCCC : 1605
+AGGGCCC : 1836
+GGGACCT : 2200
+AGGTCCC : 2897
+GGGTCCC : 3064
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+EcoRI		g/aattc			GAATTC
+
+== Positions des coupures pour EcoRI ==
+
+GAATTC : 3177
+GAATTC : 3222
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+EcoRV		gat/atc			GATATC
+
+== Positions des coupures pour EcoRV ==
+
+==> Pas de sites pour EcoRV
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Eco53kI		gag/ctc			GAGCTC
+
+== Positions des coupures pour Eco53kI ==
+
+GAGCTC : 2149
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+EsaBC3I		tc/ga			TCGA
+
+== Positions des coupures pour EsaBC3I ==
+
+TCGA : 500
+TCGA : 711
+TCGA : 786
+TCGA : 1203
+TCGA : 1433
+TCGA : 1749
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+FaiI		ya/tr			[CT]AT[AG]
+
+== Positions des coupures pour FaiI ==
+
+CATA : 338
+CATA : 346
+CATG : 428
+TATG : 434
+CATG : 626
+TATG : 668
+TATG : 866
+CATG : 959
+TATA : 977
+TATG : 1112
+TATG : 1445
+CATG : 1525
+TATG : 1574
+TATG : 1592
+TATG : 1817
+TATA : 1971
+TATA : 1986
+TATG : 2023
+TATA : 2043
+TATG : 2087
+CATG : 2367
+TATG : 2389
+CATA : 2394
+CATA : 2666
+CATG : 2711
+CATG : 2721
+CATG : 2823
+TATA : 3157
+CATA : 3197
+TATG : 3203
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+FatI		/catg			CATG
+
+== Positions des coupures pour FatI ==
+
+CATG : 426
+CATG : 624
+CATG : 957
+CATG : 1523
+CATG : 2365
+CATG : 2709
+CATG : 2719
+CATG : 2821
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+FmuI		ggnc/c			GG[ACGT]CC
+
+== Positions des coupures pour FmuI ==
+
+GGGCC : 56
+GGGCC : 66
+GGACC : 71
+GGGCC : 239
+GGACC : 415
+GGTCC : 537
+GGCCC : 1489
+GGGCC : 1566
+GGCCC : 1608
+GGGCC : 1614
+GGGCC : 1791
+GGGCC : 1839
+GGACC : 2203
+GGCCC : 2236
+GGGCC : 2317
+GGTCC : 2673
+GGGCC : 2680
+GGTCC : 2900
+GGACC : 2993
+GGTCC : 3067
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Fnu4HI		gc/ngc			GC[ACGT]GC
+
+== Positions des coupures pour Fnu4HI ==
+
+GCGGC : 32
+GCGGC : 41
+GCGGC : 82
+GCGGC : 660
+GCGGC : 771
+GCAGC : 952
+GCTGC : 1031
+GCGGC : 1324
+GCTGC : 1426
+GCGGC : 1454
+GCCGC : 1532
+GCAGC : 1554
+GCTGC : 1697
+GCTGC : 1825
+GCTGC : 1859
+GCGGC : 2134
+GCTGC : 2362
+GCTGC : 2513
+GCAGC : 2688
+GCCGC : 2769
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+FseI		ggccgg/cc			GGCCGGCC
+
+== Positions des coupures pour FseI ==
+
+==> Pas de sites pour FseI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+FspI		tgc/gca			TGCGCA
+
+== Positions des coupures pour FspI ==
+
+==> Pas de sites pour FspI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+FspAI		rtgc/gcay			[AG]TGCGCA[CT]
+
+== Positions des coupures pour FspAI ==
+
+==> Pas de sites pour FspAI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+GlaI		gc/gc			GCGC
+
+== Positions des coupures pour GlaI ==
+
+GCGC : 39
+GCGC : 699
+GCGC : 810
+GCGC : 1599
+GCGC : 1774
+GCGC : 1862
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HaeI		wgg/ccw			[AT]GGCC[AT]
+
+== Positions des coupures pour HaeI ==
+
+AGGCCA : 203
+TGGCCA : 1063
+TGGCCA : 1315
+AGGCCA : 1342
+AGGCCA : 1549
+TGGCCT : 1570
+AGGCCT : 1890
+AGGCCT : 2223
+TGGCCT : 2724
+TGGCCA : 2940
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HaeII		rgcgc/y			[AG]GCGC[CT]
+
+== Positions des coupures pour HaeII ==
+
+AGCGCC : 812
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HaeIII		gg/cc			GGCC
+
+== Positions des coupures pour HaeIII ==
+
+GGCC : 55
+GGCC : 65
+GGCC : 203
+GGCC : 238
+GGCC : 485
+GGCC : 679
+GGCC : 1063
+GGCC : 1315
+GGCC : 1342
+GGCC : 1487
+GGCC : 1531
+GGCC : 1549
+GGCC : 1565
+GGCC : 1570
+GGCC : 1606
+GGCC : 1613
+GGCC : 1790
+GGCC : 1838
+GGCC : 1890
+GGCC : 2223
+GGCC : 2234
+GGCC : 2316
+GGCC : 2679
+GGCC : 2724
+GGCC : 2732
+GGCC : 2940
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HhaI		gcg/c			GCGC
+
+== Positions des coupures pour HhaI ==
+
+GCGC : 40
+GCGC : 700
+GCGC : 811
+GCGC : 1600
+GCGC : 1775
+GCGC : 1863
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HinP1I		g/cgc			GCGC
+
+== Positions des coupures pour HinP1I ==
+
+GCGC : 38
+GCGC : 698
+GCGC : 809
+GCGC : 1598
+GCGC : 1773
+GCGC : 1861
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HincII		gty/rac			GT[CT][AG]AC
+
+== Positions des coupures pour HincII ==
+
+GTCAAC : 1148
+GTTAAC : 2329
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HindIII		a/agctt			AAGCTT
+
+== Positions des coupures pour HindIII ==
+
+AAGCTT : 191
+AAGCTT : 419
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HinfI		g/antc			GA[ACGT]TC
+
+== Positions des coupures pour HinfI ==
+
+GAATC : 46
+GAATC : 90
+GACTC : 529
+GAGTC : 739
+GAGTC : 850
+GAATC : 961
+GACTC : 1024
+GAGTC : 1072
+GATTC : 1097
+GAGTC : 2286
+GAGTC : 2553
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HpaI		gtt/aac			GTTAAC
+
+== Positions des coupures pour HpaI ==
+
+GTTAAC : 2329
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HpaII		c/cgg			CCGG
+
+== Positions des coupures pour HpaII ==
+
+CCGG : 5
+CCGG : 61
+CCGG : 66
+CCGG : 323
+CCGG : 1507
+CCGG : 1609
+CCGG : 1791
+CCGG : 1853
+CCGG : 2333
+CCGG : 2461
+CCGG : 2504
+CCGG : 2538
+CCGG : 2683
+CCGG : 2980
+CCGG : 3068
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Hpy99I		cgwcg/			CG[AT]CG
+
+== Positions des coupures pour Hpy99I ==
+
+CGACG : 89
+CGTCG : 1678
+CGACG : 1765
+CGTCG : 2624
+CGTCG : 3004
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Hpy166II		gtn/nac			GT[ACGT][ACGT]AC
+
+== Positions des coupures pour Hpy166II ==
+
+GTGAAC : 152
+GTGGAC : 528
+GTAGAC : 690
+GTCAAC : 1148
+GTGTAC : 1518
+GTTAAC : 2329
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Hpy188I		tcn/ga			TC[ACGT]GA
+
+== Positions des coupures pour Hpy188I ==
+
+TCAGA : 383
+TCGGA : 547
+TCGGA : 1014
+TCGGA : 1130
+TCAGA : 1234
+TCAGA : 2372
+TCTGA : 3176
+TCAGA : 3228
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Hpy188III		tc/nnga			TC[ACGT][ACGT]GA
+
+== Positions des coupures pour Hpy188III ==
+
+TCGTGA : 149
+TCAAGA : 373
+TCCAGA : 564
+TCGAGA : 1749
+TCGGGA : 2198
+TCTAGA : 2283
+TCTGGA : 2587
+TCCTGA : 2971
+TCCAGA : 3031
+TCGGGA : 3055
+TCCTGA : 3097
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HpyCH4III		acn/gt			AC[ACGT]GT
+
+== Positions des coupures pour HpyCH4III ==
+
+ACTGT : 130
+ACGGT : 312
+ACGGT : 781
+ACAGT : 1194
+ACTGT : 2127
+ACTGT : 2261
+ACCGT : 2398
+ACAGT : 2603
+ACTGT : 2658
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HpyCH4IV		a/cgt			ACGT
+
+== Positions des coupures pour HpyCH4IV ==
+
+ACGT : 3041
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+HpyCH4V		tg/ca			TGCA
+
+== Positions des coupures pour HpyCH4V ==
+
+TGCA : 315
+TGCA : 675
+TGCA : 897
+TGCA : 951
+TGCA : 957
+TGCA : 1119
+TGCA : 1784
+TGCA : 2089
+TGCA : 2193
+TGCA : 2606
+TGCA : 2871
+TGCA : 3006
+TGCA : 3105
+TGCA : 3161
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+KasI		g/gcgcc			GGCGCC
+
+== Positions des coupures pour KasI ==
+
+==> Pas de sites pour KasI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+KflI		gg/gwccc			GGG[AT]CCC
+
+== Positions des coupures pour KflI ==
+
+GGGTCCC : 3064
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+KpnI		ggtac/c			GGTACC
+
+== Positions des coupures pour KpnI ==
+
+==> Pas de sites pour KpnI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+KroI		g/ccggc			GCCGGC
+
+== Positions des coupures pour KroI ==
+
+==> Pas de sites pour KroI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+LpnI		rgc/gcy			[AG]GCGC[CT]
+
+== Positions des coupures pour LpnI ==
+
+AGCGCC : 810
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MaeIII		/gtnac			GT[ACGT]AC
+
+== Positions des coupures pour MaeIII ==
+
+GTCAC : 740
+GTCAC : 1161
+GTGAC : 1209
+GTAAC : 1225
+GTCAC : 2127
+GTCAC : 2342
+GTGAC : 2398
+GTGAC : 2418
+GTCAC : 2499
+GTCAC : 2546
+GTCAC : 2658
+GTCAC : 2712
+GTCAC : 3037
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MauBI		cg/cgcgcg			CGCGCGCG
+
+== Positions des coupures pour MauBI ==
+
+==> Pas de sites pour MauBI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MboI		/gatc			GATC
+
+== Positions des coupures pour MboI ==
+
+GATC : 579
+GATC : 933
+GATC : 1125
+GATC : 1656
+GATC : 1664
+GATC : 1712
+GATC : 1868
+GATC : 1883
+GATC : 2412
+GATC : 2842
+GATC : 3243
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+McaTI		gcgc/gc			GCGCGC
+
+== Positions des coupures pour McaTI ==
+
+==> Pas de sites pour McaTI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MfeI		c/aattg			CAATTG
+
+== Positions des coupures pour MfeI ==
+
+==> Pas de sites pour MfeI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MluI		a/cgcgt			ACGCGT
+
+== Positions des coupures pour MluI ==
+
+==> Pas de sites pour MluI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MluCI		/aatt			AATT
+
+== Positions des coupures pour MluCI ==
+
+AATT : 111
+AATT : 143
+AATT : 442
+AATT : 886
+AATT : 946
+AATT : 997
+AATT : 2031
+AATT : 2076
+AATT : 2119
+AATT : 2828
+AATT : 3177
+AATT : 3214
+AATT : 3222
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MreI		cg/ccggcg			CGCCGGCG
+
+== Positions des coupures pour MreI ==
+
+==> Pas de sites pour MreI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MscI		tgg/cca			TGGCCA
+
+== Positions des coupures pour MscI ==
+
+TGGCCA : 1063
+TGGCCA : 1315
+TGGCCA : 2940
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MseI		t/taa			TTAA
+
+== Positions des coupures pour MseI ==
+
+TTAA : 136
+TTAA : 389
+TTAA : 1990
+TTAA : 2328
+TTAA : 2653
+TTAA : 3212
+TTAA : 3217
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MslI		caynn/nnrtg			CA[CT][ACGT][ACGT][ACGT][ACGT][AG]TG
+
+== Positions des coupures pour MslI ==
+
+CATGGCTATG : 431
+CACCCAGGTG : 1168
+CATCGAGATG : 1750
+CACCCATATG : 2665
+CATAGGTATG : 3200
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MspA1I		cmg/ckg			C[AC]GC[GT]G
+
+== Positions des coupures pour MspA1I ==
+
+CAGCTG : 478
+CAGCTG : 954
+CCGCTG : 1030
+CAGCGG : 1308
+CCGCTG : 1534
+CCGCGG : 2579
+CCGCTG : 2922
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MspGI		gccgg/c			GCCGGC
+
+== Positions des coupures pour MspGI ==
+
+==> Pas de sites pour MspGI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MteI		gcgc/ngcgc			GCGC[ACGT]GCGC
+
+== Positions des coupures pour MteI ==
+
+==> Pas de sites pour MteI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+MwoI		gcnnnnn/nngc			GC[ACGT][ACGT][ACGT][ACGT][ACGT][ACGT][ACGT]GC
+
+== Positions des coupures pour MwoI ==
+
+GCGGCTGGCGC : 37
+GCAGGCCACGC : 205
+GCACCAGGAGC : 333
+GCACTGCTCGC : 519
+GCTTCGGAGGC : 548
+GCAAGTATGGC : 668
+GCGCGGTGGGC : 704
+GCGCCGTTGGC : 815
+GCTGGCCAAGC : 1065
+GCGGAGAGAGC : 1300
+GCGGCAGGAGC : 1329
+GCTGGAGGAGC : 1359
+GCTACAGAGGC : 1484
+GCCAGCAGGGC : 1562
+GCCACAGAGGC : 1582
+GCTGGTGGCGC : 1772
+GCAGTGCCTGC : 2753
+GCTGTCCTGGC : 2928
+GCCCGTGAAGC : 3081
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NaeI		gcc/ggc			GCCGGC
+
+== Positions des coupures pour NaeI ==
+
+==> Pas de sites pour NaeI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NarI		gg/cgcc			GGCGCC
+
+== Positions des coupures pour NarI ==
+
+==> Pas de sites pour NarI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NciI		cc/sgg			CC[GC]GG
+
+== Positions des coupures pour NciI ==
+
+CCCGG : 61
+CCGGG : 324
+CCCGG : 1609
+CCCGG : 1853
+CCCGG : 2333
+CCGGG : 2505
+CCGGG : 2539
+CCGGG : 2684
+CCGGG : 2981
+CCCGG : 3068
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NcoI		c/catgg			CCATGG
+
+== Positions des coupures pour NcoI ==
+
+CCATGG : 426
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NdeI		ca/tatg			CATATG
+
+== Positions des coupures pour NdeI ==
+
+CATATG : 2666
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NgoMIV		g/ccggc			GCCGGC
+
+== Positions des coupures pour NgoMIV ==
+
+==> Pas de sites pour NgoMIV
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NheI		g/ctagc			GCTAGC
+
+== Positions des coupures pour NheI ==
+
+==> Pas de sites pour NheI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NlaIII		catg/			CATG
+
+== Positions des coupures pour NlaIII ==
+
+CATG : 430
+CATG : 628
+CATG : 961
+CATG : 1527
+CATG : 2369
+CATG : 2713
+CATG : 2723
+CATG : 2825
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NlaIV		ggn/ncc			GG[ACGT][ACGT]CC
+
+== Positions des coupures pour NlaIV ==
+
+GGAACC : 3
+GGTGCC : 22
+GGGGCC : 237
+GGTGCC : 303
+GGCTCC : 321
+GGCACC : 328
+GGAGCC : 1505
+GGAGCC : 1511
+GGCCCC : 1607
+GGGCCC : 1838
+GGATCC : 1870
+GGGACC : 2201
+GGAGCC : 2521
+GGTCCC : 2672
+GGAACC : 2777
+GGTCCC : 2899
+GGAGCC : 2978
+GGGTCC : 3065
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Nli3877I		cycgr/g			C[CT]CG[AG]G
+
+== Positions des coupures pour Nli3877I ==
+
+CCCGGG : 64
+CTCGAG : 1435
+CCCGGG : 1612
+CTCGGG : 3057
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NotI		gc/ggccgc			GCGGCCGC
+
+== Positions des coupures pour NotI ==
+
+==> Pas de sites pour NotI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NruI		tcg/cga			TCGCGA
+
+== Positions des coupures pour NruI ==
+
+==> Pas de sites pour NruI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NsiI		atgca/t			ATGCAT
+
+== Positions des coupures pour NsiI ==
+
+ATGCAT : 2091
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+NspI		rcatg/y			[AG]CATG[CT]
+
+== Positions des coupures pour NspI ==
+
+GCATGC : 628
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PabI		gta/c			GTAC
+
+== Positions des coupures pour PabI ==
+
+GTAC : 1197
+GTAC : 1520
+GTAC : 1649
+GTAC : 1685
+GTAC : 1796
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PacI		ttaat/taa			TTAATTAA
+
+== Positions des coupures pour PacI ==
+
+==> Pas de sites pour PacI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PasI		cc/cwggg			CCC[AT]GGG
+
+== Positions des coupures pour PasI ==
+
+CCCTGGG : 2674
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PciI		a/catgt			ACATGT
+
+== Positions des coupures pour PciI ==
+
+==> Pas de sites pour PciI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PcsI		wcgnnnn/nnncgw			[AT]CG[ACGT][ACGT][ACGT][ACGT][ACGT][ACGT][ACGT]CG[AT]
+
+== Positions des coupures pour PcsI ==
+
+ACGCGGGGGCCGA : 236
+ACGATGAGTACGA : 1646
+TCGCCCTGTACGA : 1682
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Pfl8569I		gcn/ngc			GC[ACGT][ACGT]GC
+
+== Positions des coupures pour Pfl8569I ==
+
+GCTGGC : 36
+GCAGGC : 201
+GCTCGC : 520
+GCATGC : 626
+GCGTGC : 673
+GCTGGC : 1061
+GCAAGC : 1364
+GCCCGC : 1400
+GCCAGC : 1551
+GCCAGC : 1558
+GCGGGC : 1701
+GCTCGC : 2151
+GCCCGC : 2407
+GCCTGC : 2754
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PflMI		ccannnn/ntgg			CCA[ACGT][ACGT][ACGT][ACGT][ACGT]TGG
+
+== Positions des coupures pour PflMI ==
+
+CCAATGCCTGG : 106
+CCAGCGGATGG : 1311
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PfoI		t/ccngga			TCC[ACGT]GGA
+
+== Positions des coupures pour PfoI ==
+
+TCCAGGA : 2911
+TCCCGGA : 3066
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PluTI		ggcgc/c			GGCGCC
+
+== Positions des coupures pour PluTI ==
+
+==> Pas de sites pour PluTI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PmeI		gttt/aaac			GTTTAAAC
+
+== Positions des coupures pour PmeI ==
+
+==> Pas de sites pour PmeI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PmlI		cac/gtg			CACGTG
+
+== Positions des coupures pour PmlI ==
+
+CACGTG : 3042
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Ppu10I		a/tgcat			ATGCAT
+
+== Positions des coupures pour Ppu10I ==
+
+ATGCAT : 2087
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PpuMI		rg/gwccy			[AG]GG[AT]CC[CT]
+
+== Positions des coupures pour PpuMI ==
+
+GGGACCT : 2200
+AGGTCCC : 2897
+GGGTCCC : 3064
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PshAI		gacnn/nngtc			GAC[ACGT][ACGT][ACGT][ACGT]GTC
+
+== Positions des coupures pour PshAI ==
+
+GACTTGGGTC : 3062
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PsiI		tta/taa			TTATAA
+
+== Positions des coupures pour PsiI ==
+
+TTATAA : 977
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Psp03I		ggwc/c			GG[AT]CC
+
+== Positions des coupures pour Psp03I ==
+
+GGACC : 71
+GGACC : 415
+GGTCC : 537
+GGACC : 2203
+GGTCC : 2673
+GGTCC : 2900
+GGACC : 2993
+GGTCC : 3067
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PspGI		/ccwgg			CC[AT]GG
+
+== Positions des coupures pour PspGI ==
+
+CCTGG : 16
+CCTGG : 23
+CCAGG : 49
+CCAGG : 76
+CCTGG : 105
+CCAGG : 221
+CCAGG : 329
+CCAGG : 605
+CCAGG : 716
+CCAGG : 938
+CCAGG : 1166
+CCAGG : 1342
+CCTGG : 1565
+CCAGG : 1691
+CCTGG : 1864
+CCAGG : 2206
+CCTGG : 2436
+CCAGG : 2495
+CCTGG : 2673
+CCTGG : 2690
+CCAGG : 2771
+CCAGG : 2911
+CCTGG : 2926
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PspOMI		g/ggccc			GGGCCC
+
+== Positions des coupures pour PspOMI ==
+
+GGGCCC : 1836
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PspXI		vc/tcgagb			[ACG]CTCGAG[CGT]
+
+== Positions des coupures pour PspXI ==
+
+CCTCGAGC : 1431
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PssI		rggnc/cy			[AG]GG[ACGT]CC[CT]
+
+== Positions des coupures pour PssI ==
+
+AGGCCCT : 1489
+AGGGCCT : 1566
+AGGCCCC : 1608
+AGGGCCC : 1839
+GGGACCT : 2203
+AGGTCCC : 2900
+GGGTCCC : 3067
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PstI		ctgca/g			CTGCAG
+
+== Positions des coupures pour PstI ==
+
+==> Pas de sites pour PstI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PvuI		cgat/cg			CGATCG
+
+== Positions des coupures pour PvuI ==
+
+==> Pas de sites pour PvuI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+PvuII		cag/ctg			CAGCTG
+
+== Positions des coupures pour PvuII ==
+
+CAGCTG : 478
+CAGCTG : 954
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+RsaI		gt/ac			GTAC
+
+== Positions des coupures pour RsaI ==
+
+GTAC : 1196
+GTAC : 1519
+GTAC : 1648
+GTAC : 1684
+GTAC : 1795
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+RsrII		cg/gwccg			CGG[AT]CCG
+
+== Positions des coupures pour RsrII ==
+
+CGGACCG : 68
+CGGTCCG : 534
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SacI		gagct/c			GAGCTC
+
+== Positions des coupures pour SacI ==
+
+GAGCTC : 2151
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SacII		ccgc/gg			CCGCGG
+
+== Positions des coupures pour SacII ==
+
+CCGCGG : 2580
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SalI		g/tcgac			GTCGAC
+
+== Positions des coupures pour SalI ==
+
+==> Pas de sites pour SalI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Sau96I		g/gncc			GG[ACGT]CC
+
+== Positions des coupures pour Sau96I ==
+
+GGGCC : 53
+GGGCC : 63
+GGACC : 68
+GGGCC : 236
+GGACC : 412
+GGTCC : 534
+GGCCC : 1486
+GGGCC : 1563
+GGCCC : 1605
+GGGCC : 1611
+GGGCC : 1788
+GGGCC : 1836
+GGACC : 2200
+GGCCC : 2233
+GGGCC : 2314
+GGTCC : 2670
+GGGCC : 2677
+GGTCC : 2897
+GGACC : 2990
+GGTCC : 3064
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SbfI		cctgca/gg			CCTGCAGG
+
+== Positions des coupures pour SbfI ==
+
+==> Pas de sites pour SbfI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+ScaI		agt/act			AGTACT
+
+== Positions des coupures pour ScaI ==
+
+==> Pas de sites pour ScaI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SciI		ctc/gag			CTCGAG
+
+== Positions des coupures pour SciI ==
+
+CTCGAG : 1433
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+ScrFI		cc/ngg			CC[ACGT]GG
+
+== Positions des coupures pour ScrFI ==
+
+CCTGG : 18
+CCTGG : 25
+CCAGG : 51
+CCCGG : 61
+CCAGG : 78
+CCTGG : 107
+CCAGG : 223
+CCGGG : 324
+CCAGG : 331
+CCAGG : 607
+CCAGG : 718
+CCAGG : 940
+CCAGG : 1168
+CCAGG : 1344
+CCTGG : 1567
+CCCGG : 1609
+CCAGG : 1693
+CCCGG : 1853
+CCTGG : 1866
+CCAGG : 2208
+CCCGG : 2333
+CCTGG : 2438
+CCAGG : 2497
+CCGGG : 2505
+CCGGG : 2539
+CCTGG : 2675
+CCGGG : 2684
+CCTGG : 2692
+CCAGG : 2773
+CCAGG : 2913
+CCTGG : 2928
+CCGGG : 2981
+CCCGG : 3068
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SelI		/cgcg			CGCG
+
+== Positions des coupures pour SelI ==
+
+CGCG : 38
+CGCG : 230
+CGCG : 698
+CGCG : 1773
+CGCG : 2131
+CGCG : 2577
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SetI		asst/			A[GC][GC]T
+
+== Positions des coupures pour SetI ==
+
+AGCT : 195
+AGCT : 356
+AGCT : 423
+AGCT : 480
+AGGT : 527
+AGGT : 765
+AGCT : 956
+AGCT : 1061
+ACCT : 1153
+AGGT : 1172
+ACCT : 1200
+AGCT : 1209
+AGCT : 1239
+ACCT : 1253
+AGCT : 1355
+ACCT : 1407
+AGCT : 1475
+AGCT : 1480
+ACCT : 1639
+AGCT : 1826
+AGCT : 1860
+AGGT : 1958
+AGCT : 2141
+AGCT : 2151
+ACCT : 2205
+AGGT : 2231
+AGCT : 2340
+AGCT : 2363
+AGGT : 2420
+AGGT : 2501
+AGGT : 2616
+AGGT : 2899
+AGCT : 2911
+AGGT : 3015
+AGGT : 3039
+ACGT : 3044
+AGGT : 3104
+AGGT : 3148
+ACCT : 3195
+AGGT : 3202
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SexAI		a/ccwggt			ACC[AT]GGT
+
+== Positions des coupures pour SexAI ==
+
+==> Pas de sites pour SexAI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SfcI		c/tryag			CT[AG][CT]AG
+
+== Positions des coupures pour SfcI ==
+
+CTGTAG : 590
+CTACAG : 1479
+CTACAG : 1879
+CTGTAG : 3183
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SfiI		ggccnnnn/nggcc			GGCC[ACGT][ACGT][ACGT][ACGT][ACGT]GGCC
+
+== Positions des coupures pour SfiI ==
+
+==> Pas de sites pour SfiI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SfoI		ggc/gcc			GGCGCC
+
+== Positions des coupures pour SfoI ==
+
+==> Pas de sites pour SfoI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SgrAI		cr/ccggyg			C[AG]CCGG[CT]G
+
+== Positions des coupures pour SgrAI ==
+
+==> Pas de sites pour SgrAI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SgrDI		cg/tcgacg			CGTCGACG
+
+== Positions des coupures pour SgrDI ==
+
+==> Pas de sites pour SgrDI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SmaI		ccc/ggg			CCCGGG
+
+== Positions des coupures pour SmaI ==
+
+CCCGGG : 62
+CCCGGG : 1610
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SmlI		c/tyrag			CT[CT][AG]AG
+
+== Positions des coupures pour SmlI ==
+
+CTTAAG : 388
+CTCGAG : 1431
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SnaBI		tac/gta			TACGTA
+
+== Positions des coupures pour SnaBI ==
+
+==> Pas de sites pour SnaBI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SpeI		a/ctagt			ACTAGT
+
+== Positions des coupures pour SpeI ==
+
+==> Pas de sites pour SpeI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SphI		gcatg/c			GCATGC
+
+== Positions des coupures pour SphI ==
+
+GCATGC : 628
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SrfI		gccc/gggc			GCCCGGGC
+
+== Positions des coupures pour SrfI ==
+
+==> Pas de sites pour SrfI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Sse8647I		ag/gwcct			AGG[AT]CCT
+
+== Positions des coupures pour Sse8647I ==
+
+==> Pas de sites pour Sse8647I
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SspI		aat/att			AATATT
+
+== Positions des coupures pour SspI ==
+
+==> Pas de sites pour SspI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Sth302II		cc/gg			CCGG
+
+== Positions des coupures pour Sth302II ==
+
+CCGG : 6
+CCGG : 62
+CCGG : 67
+CCGG : 324
+CCGG : 1508
+CCGG : 1610
+CCGG : 1792
+CCGG : 1854
+CCGG : 2334
+CCGG : 2462
+CCGG : 2505
+CCGG : 2539
+CCGG : 2684
+CCGG : 2981
+CCGG : 3069
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+StuI		agg/cct			AGGCCT
+
+== Positions des coupures pour StuI ==
+
+AGGCCT : 1890
+AGGCCT : 2223
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+StyI		c/cwwgg			CC[AT][AT]GG
+
+== Positions des coupures pour StyI ==
+
+CCATGG : 426
+CCTTGG : 924
+CCAAGG : 1316
+CCTTGG : 2733
+CCAAGG : 2893
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+StyD4I		/ccngg			CC[ACGT]GG
+
+== Positions des coupures pour StyD4I ==
+
+CCTGG : 16
+CCTGG : 23
+CCAGG : 49
+CCCGG : 59
+CCAGG : 76
+CCTGG : 105
+CCAGG : 221
+CCGGG : 322
+CCAGG : 329
+CCAGG : 605
+CCAGG : 716
+CCAGG : 938
+CCAGG : 1166
+CCAGG : 1342
+CCTGG : 1565
+CCCGG : 1607
+CCAGG : 1691
+CCCGG : 1851
+CCTGG : 1864
+CCAGG : 2206
+CCCGG : 2331
+CCTGG : 2436
+CCAGG : 2495
+CCGGG : 2503
+CCGGG : 2537
+CCTGG : 2673
+CCGGG : 2682
+CCTGG : 2690
+CCAGG : 2771
+CCAGG : 2911
+CCTGG : 2926
+CCGGG : 2979
+CCCGG : 3066
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+SwaI		attt/aaat			ATTTAAAT
+
+== Positions des coupures pour SwaI ==
+
+==> Pas de sites pour SwaI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+TagI		ac/gt			ACGT
+
+== Positions des coupures pour TagI ==
+
+ACGT : 3042
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+TaiI		acgt/			ACGT
+
+== Positions des coupures pour TaiI ==
+
+ACGT : 3044
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+TaqI		t/cga			TCGA
+
+== Positions des coupures pour TaqI ==
+
+TCGA : 499
+TCGA : 710
+TCGA : 785
+TCGA : 1202
+TCGA : 1432
+TCGA : 1748
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+TatI		w/gtacw			[AT]GTAC[AT]
+
+== Positions des coupures pour TatI ==
+
+TGTACA : 1517
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+TauI		gcsg/c			GC[GC]GC
+
+== Positions des coupures pour TauI ==
+
+GCGGC : 34
+GCGGC : 43
+GCGGC : 84
+GCGGC : 662
+GCGGC : 773
+GCGGC : 1326
+GCGGC : 1456
+GCCGC : 1534
+GCGGC : 1830
+GCGGC : 2136
+GCCGC : 2771
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+TfiI		g/awtc			GA[AT]TC
+
+== Positions des coupures pour TfiI ==
+
+GAATC : 46
+GAATC : 90
+GAATC : 961
+GATTC : 1097
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+TseI		g/cwgc			GC[AT]GC
+
+== Positions des coupures pour TseI ==
+
+GCAGC : 951
+GCTGC : 1030
+GCTGC : 1425
+GCAGC : 1553
+GCTGC : 1696
+GCTGC : 1824
+GCTGC : 1858
+GCAGC : 2136
+GCTGC : 2361
+GCTGC : 2512
+GCAGC : 2687
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Tsp45I		/gtsac			GT[GC]AC
+
+== Positions des coupures pour Tsp45I ==
+
+GTCAC : 740
+GTCAC : 1161
+GTGAC : 1209
+GTCAC : 2127
+GTCAC : 2342
+GTGAC : 2398
+GTGAC : 2418
+GTCAC : 2499
+GTCAC : 2546
+GTCAC : 2658
+GTCAC : 2712
+GTCAC : 3037
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+Tth111I		gacn/nngtc			GAC[ACGT][ACGT][ACGT]GTC
+
+== Positions des coupures pour Tth111I ==
+
+GACTCGGTC : 532
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+UnbI		/ggncc			GG[ACGT]CC
+
+== Positions des coupures pour UnbI ==
+
+GGGCC : 52
+GGGCC : 62
+GGACC : 67
+GGGCC : 235
+GGACC : 411
+GGTCC : 533
+GGCCC : 1485
+GGGCC : 1562
+GGCCC : 1604
+GGGCC : 1610
+GGGCC : 1787
+GGGCC : 1835
+GGACC : 2199
+GGCCC : 2232
+GGGCC : 2313
+GGTCC : 2669
+GGGCC : 2676
+GGTCC : 2896
+GGACC : 2989
+GGTCC : 3063
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+UpaP162I		ca/tg			CATG
+
+== Positions des coupures pour UpaP162I ==
+
+CATG : 428
+CATG : 626
+CATG : 959
+CATG : 1525
+CATG : 2367
+CATG : 2711
+CATG : 2721
+CATG : 2823
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+VpaK11AI		/ggwcc			GG[AT]CC
+
+== Positions des coupures pour VpaK11AI ==
+
+GGACC : 67
+GGACC : 411
+GGTCC : 533
+GGACC : 2199
+GGTCC : 2669
+GGTCC : 2896
+GGACC : 2989
+GGTCC : 3063
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+XbaI		t/ctaga			TCTAGA
+
+== Positions des coupures pour XbaI ==
+
+TCTAGA : 2282
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+XcmI		ccannnnn/nnnntgg			CCA[ACGT][ACGT][ACGT][ACGT][ACGT][ACGT][ACGT][ACGT][ACGT]TGG
+
+== Positions des coupures pour XcmI ==
+
+CCAGGAGGAAGCTGG : 1350
+CCATATGGTCCCTGG : 2671
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+XhoI		c/tcgag			CTCGAG
+
+== Positions des coupures pour XhoI ==
+
+CTCGAG : 1431
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+XmaI		c/ccggg			CCCGGG
+
+== Positions des coupures pour XmaI ==
+
+CCCGGG : 60
+CCCGGG : 1608
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+XmnI		gaann/nnttc			GAA[ACGT][ACGT][ACGT][ACGT]TTC
+
+== Positions des coupures pour XmnI ==
+
+==> Pas de sites pour XmnI
+
+------------
+
+NOM			SITE				MOTIF RECHERCHE
+ZraI		gac/gtc			GACGTC
+
+== Positions des coupures pour ZraI ==
+
+==> Pas de sites pour ZraI
+
+------------
