@@ -1,3 +1,8 @@
+# 
+# Pour cours BCM3553 - Fonctions montrées en classe
+# Simple démonstration de l'utilisation des méthodes
+# inclus dans une fonction via un fichier de fonctions
+#
 def classify_aa(aa):
     if aa in "DEKRH":
         return "chargé"

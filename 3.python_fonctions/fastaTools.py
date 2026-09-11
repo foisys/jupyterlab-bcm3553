@@ -1,6 +1,6 @@
 #
 # Simple démonstration de l'utilisation des méthodes
-# inclus dans une fonction
+# inclus dans une fonction via un fichier de fonctions
 #
 def checkFasta(aFile):
     allLines = aFile.readlines()
